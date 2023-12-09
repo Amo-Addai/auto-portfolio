@@ -12,19 +12,19 @@ UI styles like Material, Argon, and more blend seamlessly with React, Angular, a
 Here are the links to each project:
 
 
-* [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app.git)
+* [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([repo](https://github.com/Amo-Addai/nodejs-react-material-app))
 
-* [Python - Django - Soft UI](https://github.com/Amo-Addai/django-soft-ui-app.git)
+* [Python - Django - Black UI](https://github.com/Amo-Addai/django-black-app)  ([repo](https://github.com/Amo-Addai/django-black-app))
 
-* [Python - Flask - Material UI](https://github.com/Amo-Addai/flask-material-app.git)
+* [Python - Flask - Material UI](https://github.com/Amo-Addai/flask-material-app)  ([repo](https://github.com/Amo-Addai/flask-material-app))
 
-* [Laravel - Vue - Black UI](https://github.com/Amo-Addai/laravel-vue-black-app.git)
+* [Laravel - Vue - Black UI](https://github.com/Amo-Addai/laravel-vue-black-app)  ([repo](https://github.com/Amo-Addai/laravel-vue-black-app))
 
-* [C# - ASP .NET - Argon UI](https://github.com/Amo-Addai/asp-net-argon-app.git)
+* [C# - ASP .NET - Argon UI](https://github.com/Amo-Addai/asp-net-argon-app)  ([repo](https://github.com/Amo-Addai/asp-net-argon-app))
 
-* [Ethereum DApp - Solidity - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)
+* [Ethereum DApp - Solidity - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
 
-* [Flutter - Portfolio](https://github.com/Amo-Addai/flutter-portfolio.git)
+* [Flutter - Portfolio](https://github.com/Amo-Addai/flutter-portfolio)  ([repo]())
 
-* [DevOps - Docker - Jenkins - Ansible - Templates](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)
+* [DevOps - Docker - Jenkins - Ansible - Templates](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
 
