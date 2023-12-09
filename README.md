@@ -24,7 +24,7 @@ Here are the links to each project:
 
 * [Ethereum DApp - Solidity - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
 
-* [Flutter - Portfolio](https://github.com/Amo-Addai/flutter-portfolio)  ([repo]())
+* [Flutter - Portfolio](https://github.com/Amo-Addai/flutter-portfolio)  ([repo](https://github.com/Amo-Addai/flutter-portfolio))
 
 * [DevOps - Docker - Jenkins - Ansible - Templates](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
 
