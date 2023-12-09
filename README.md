@@ -6,7 +6,7 @@
 
 Explore my GitHub Mono-Repo Hub of innovation with diverse full-stack projects. 
 
-UI styles like Material, Argon, and more blend seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, and others, it's a playground for dynamic tech stack combinations. 
+UI styles like Material, Argon, and more blend seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others, it's a playground for dynamic tech stack combinations. 
 
 
 Here are the links to each project:
@@ -24,7 +24,7 @@ Here are the links to each project:
 
 * [Ethereum DApp - Solidity - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
 
-* [Flutter - Portfolio](https://github.com/Amo-Addai/flutter-portfolio)  ([repo](https://github.com/Amo-Addai/flutter-portfolio))
+* [Auto - Mobile - Portfolio](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([repo](https://github.com/Amo-Addai/auto-mobile-portfolio))
 
 * [DevOps - Docker - Jenkins - Ansible - Templates](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
 
