@@ -14,6 +14,8 @@ Here are the links to each project:
 
 * [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([repo](https://github.com/Amo-Addai/nodejs-react-material-app))
 
+* [Golang - Fiber - Angular - Now UI](https://github.com/Amo-Addai/golang-angular-now-app)  ([repo](https://github.com/Amo-Addai/golang-angular-now-app))
+
 * [Python - Django - Black UI](https://github.com/Amo-Addai/django-black-app)  ([repo](https://github.com/Amo-Addai/django-black-app))
 
 * [Python - Flask - Material UI](https://github.com/Amo-Addai/flask-material-app)  ([repo](https://github.com/Amo-Addai/flask-material-app))
