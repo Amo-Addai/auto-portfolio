@@ -39,7 +39,7 @@ Here are the links to each project:
 
 <br />
 
-* [Ethereum DApp - Solidity - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
+* [Real Estate DApp - Solidity - Ethereum - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
 
 <br />
 
@@ -59,7 +59,7 @@ Here are the links to each project:
 
 <br />
 
-* [Blockchain DApp & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
+* [Blockchain DApps & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
 
 <br />
 <br />
