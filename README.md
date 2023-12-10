@@ -30,3 +30,14 @@ Here are the links to each project:
 
 * [DevOps - Docker - Jenkins - Ansible - Templates](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
 
+* [Data Structures & Algorithms](https://github.com/Amo-Addai/data-algo)  ([repo](https://github.com/Amo-Addai/data-algo))
+
+* [Python & R Programming Languages - Data Science, Financial Analysis, Business Intelligence, & Statistical Analysis](https://github.com/Amo-Addai/financial-analysis-python-r)  ([repo](https://github.com/Amo-Addai/financial-analysis-python-r))
+
+* [Blockchain DApp & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
+
+<br />
+<br />
+
+* [All GitHub Projects](https://github.com/Amo-Addai?tab=repositories)
+
