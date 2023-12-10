@@ -8,9 +8,11 @@ Explore my GitHub Mono-Repo Hub of innovation with diverse full-stack projects.
 
 UI styles like Material, Argon, and more blend seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others, it's a playground for dynamic tech stack combinations. 
 
+<br />
 
 Here are the links to each project:
 
+<br />
 
 * [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([repo](https://github.com/Amo-Addai/nodejs-react-material-app))
 
