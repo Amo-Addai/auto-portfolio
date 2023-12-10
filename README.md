@@ -64,7 +64,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [All GitHub Projects](https://github.com/Amo-Addai?tab=repositories)
+* [All My GitHub Projects](https://github.com/Amo-Addai?tab=repositories)
 
 <br />
 <br />
