@@ -28,7 +28,7 @@ Here are the links to each project:
 
 * [Ethereum DApp - Solidity - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
 
-* [Auto - Mobile - Portfolio](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([repo](https://github.com/Amo-Addai/auto-mobile-portfolio))
+* [Mobile App Development - Portfolio](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([repo](https://github.com/Amo-Addai/auto-mobile-portfolio))
 
 * [DevOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
 
