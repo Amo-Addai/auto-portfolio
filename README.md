@@ -28,7 +28,7 @@ Here are the links to each project:
 
 * [Auto - Mobile - Portfolio](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([repo](https://github.com/Amo-Addai/auto-mobile-portfolio))
 
-* [DevOps - Docker - Jenkins - Ansible - Templates](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
+* [DevOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
 
 * [Data Structures & Algorithms](https://github.com/Amo-Addai/data-algo)  ([repo](https://github.com/Amo-Addai/data-algo))
 
