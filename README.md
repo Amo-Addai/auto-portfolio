@@ -18,6 +18,10 @@ Here are the links to each project:
 
 <br />
 
+* [Data Structures & Algorithms - ALL Programming Languages](https://github.com/Amo-Addai/data-algo)  ([repo](https://github.com/Amo-Addai/data-algo))
+
+<br />
+
 * [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([repo](https://github.com/Amo-Addai/nodejs-react-material-app))
 
 <br />
@@ -47,10 +51,6 @@ Here are the links to each project:
 <br />
 
 * [DevOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
-
-<br />
-
-* [Data Structures & Algorithms - ALL Programming Languages](https://github.com/Amo-Addai/data-algo)  ([repo](https://github.com/Amo-Addai/data-algo))
 
 <br />
 
