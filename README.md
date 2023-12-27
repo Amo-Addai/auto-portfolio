@@ -10,7 +10,7 @@ UI styles like Material, Argon, and more blend seamlessly with React, Angular, a
 
 <br />
 
-* [Auto-Mobile-Portfolio - Mobile App Development (in progress)](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([repo](https://github.com/Amo-Addai/auto-mobile-portfolio))
+* [Mobile-Portfolio - Mobile App Development (in progress)](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([repo](https://github.com/Amo-Addai/auto-mobile-portfolio))
 
 <br />
 
