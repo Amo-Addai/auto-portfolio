@@ -63,6 +63,11 @@ Here are the links to each project:
 <br />
 <br />
 
+* [IoT & Embedded Systems Development - Arduino, Raspberry Pi, Beagle Bone, etc](https://github.com/Amo-Addai/iot-development)  ([repo](https://github.com/Amo-Addai/iot-development))
+
+<br />
+<br />
+
 * [All My GitHub Projects](https://github.com/Amo-Addai?tab=repositories)
 
 <br />
