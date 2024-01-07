@@ -6,7 +6,7 @@
 
 Explore my GitHub Mono-Repo Hub of innovation with diverse full-stack projects. 
 
-UI styles like Material, Argon, and more blend seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others, it's a playground for dynamic tech stack combinations. 
+UI styles like Material, Argon, and more, blended seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others, it's a playground for dynamic tech stack combinations. 
 
 <br />
 
