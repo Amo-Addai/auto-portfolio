@@ -22,6 +22,10 @@ Here are the links to each project:
 
 <br />
 
+* [Front-End Development - UI/UX Projects](https://github.com/Amo-Addai/frontend-development)  ([repo](https://github.com/Amo-Addai/frontend-development))
+
+<br />
+
 * [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([repo](https://github.com/Amo-Addai/nodejs-react-material-app))
 
 <br />
