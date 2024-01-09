@@ -77,7 +77,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Artificial Intelligence, Machine Learning, Business Intelligence, and Data Analysis Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in-progress](https://github.com/Amo-Addai/ai-ml-bi-da))
+* [Artificial Intelligence, Machine Learning, Business Intelligence, and Data Science Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in-progress](https://github.com/Amo-Addai/ai-ml-bi-da))
 
 <br />
 <br />
