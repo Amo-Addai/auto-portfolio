@@ -1,12 +1,12 @@
 
 
-# [Auto-Portfolio - Dashboard Projects](#)
+# [Auto-Portfolio - Project Hub](#)
 <!-- (https://www.auto-portfolio.com) -->
 
 
-Explore my GitHub Mono-Repo Hub of innovation with diverse full-stack projects. 
+Explore my GitHub Mono-Repo Hub of innovation with diverse full-stack and other playground projects. 
 
-UI styles like Material, Argon, and more, blended seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others, it's a playground for dynamic tech stack combinations. 
+It includes UI styles like Material, Argon, and more, blended seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others, it's a playground for dynamic tech stack combinations. 
 
 <br />
 <br />
