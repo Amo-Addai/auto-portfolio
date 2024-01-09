@@ -10,7 +10,7 @@ UI styles like Material, Argon, and more, blended seamlessly with React, Angular
 
 <br />
 
-* [Mobile-Portfolio - Mobile App Development](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([repo - in progress](https://github.com/Amo-Addai/auto-mobile-portfolio))
+* [Mobile-Portfolio - Mobile App Development](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([in progress](https://github.com/Amo-Addai/auto-mobile-portfolio))
 
 <br />
 
@@ -67,7 +67,12 @@ Here are the links to each project:
 <br />
 <br />
 
-* [IoT & Embedded Systems Development - Arduino, Raspberry Pi, Beagle Bone, etc](https://github.com/Amo-Addai/iot-development)  ([repo](https://github.com/Amo-Addai/iot-development))
+* [IoT & Embedded Systems Development - Arduino, Raspberry Pi, Beagle Bone, etc](https://github.com/Amo-Addai/iot-development)  ([in progress](https://github.com/Amo-Addai/iot-development))
+
+<br />
+<br />
+
+* [VR/AR/MR & Game Development - 3D Models with Blender, Unity, etc](https://github.com/Amo-Addai/xR-game-development)  ([in progress](https://github.com/Amo-Addai/xR-game-development))
 
 <br />
 <br />
