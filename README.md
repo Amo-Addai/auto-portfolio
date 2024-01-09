@@ -97,7 +97,14 @@ Here are the links to each project:
 <br />
 <br />
 
-* [All My GitHub Projects](https://github.com/Amo-Addai?tab=repositories)
+* [All my Public GitHub projects](https://github.com/Amo-Addai?tab=repositories)
+
+<br />
+<br />
+
+* Feel free to reach out to me directly to gain access to some of my private projects (on [github](https://github.com/Amo-Addai/), [gitlab](https://gitlab.com/users/Mr.Amo-Addai/), or [bitbucket](https://bitbucket.org/kwadwo_amoad/))
+<br />
+[Linkedin](https://www.linkedin.com/in/kwadwo-amo-addai/) or kwadwoamoad@gmail.com
 
 <br />
 <br />
