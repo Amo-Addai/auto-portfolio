@@ -106,7 +106,7 @@ Here are the links to each project:
 
 <br />
 
-[Linkedin](https://www.linkedin.com/in/kwadwo-amo-addai/) or [kwadwoamoad@gmail.com](kwadwoamoad@gmail.com)
+[Linkedin](https://www.linkedin.com/in/kwadwo-amo-addai/) or [kwadwoamoad@gmail.com](mailto:kwadwoamoad@gmail.com)
 
 <br />
 <br />
