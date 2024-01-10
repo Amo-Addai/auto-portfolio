@@ -67,12 +67,12 @@ Here are the links to each project:
 <br />
 <br />
 
-* [DevOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([repo](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
+* [DevOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible)  ([in progress](https://github.com/Amo-Addai/devops-ci-cd-docker-jenkins-ansible))
 
 <br />
 <br />
 
-* [Financial Analysis, Business Intelligence, & Statistical Analysis - Python & R Programming Languages](https://github.com/Amo-Addai/financial-analysis-python-r)  ([repo](https://github.com/Amo-Addai/financial-analysis-python-r))
+* [Financial Analysis, Algorithmic Trading, Business Intelligence, & Statistical Analysis - Python & R](https://github.com/Amo-Addai/financial-analysis-python-r)  ([in progress](https://github.com/Amo-Addai/financial-analysis-python-r))
 
 <br />
 <br />
