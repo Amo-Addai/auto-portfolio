@@ -72,7 +72,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Python & R Programming Languages - Data Science, Financial Analysis, Business Intelligence, & Statistical Analysis](https://github.com/Amo-Addai/financial-analysis-python-r)  ([repo](https://github.com/Amo-Addai/financial-analysis-python-r))
+* [Financial Analysis, Business Intelligence, & Statistical Analysis - Python & R Programming Languages](https://github.com/Amo-Addai/financial-analysis-python-r)  ([repo](https://github.com/Amo-Addai/financial-analysis-python-r))
 
 <br />
 <br />
