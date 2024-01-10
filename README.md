@@ -22,7 +22,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Front-End Development - UI/UX Projects](https://github.com/Amo-Addai/frontend-development)  ([repo](https://github.com/Amo-Addai/frontend-development))
+* [UI/UX Projects - Html - Css - Javascript](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
 
 <br />
 <br />
