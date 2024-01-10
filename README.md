@@ -105,8 +105,9 @@ Here are the links to each project:
 * Feel free to reach out to me directly to gain access to some of my private projects (on [github](https://github.com/Amo-Addai/), [gitlab](https://gitlab.com/users/Mr.Amo-Addai/), or [bitbucket](https://bitbucket.org/kwadwo_amoad/)):
 
 <br />
+<br />
 
-<div style="text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
 <a href="https://www.linkedin.com/in/kwadwo-amo-addai/">Linkedin</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="mailto:kwadwoamoad@gmail.com">kwadwoamoad@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://calendly.com/kwadwoamoad/30min">Book 30mins on my Calendar</a>
 </div>
 
