@@ -106,7 +106,7 @@ Here are the links to each project:
 
 <br />
 
-[Linkedin](https://www.linkedin.com/in/kwadwo-amo-addai/) or [kwadwoamoad@gmail.com](mailto:kwadwoamoad@gmail.com)
+[Linkedin](https://www.linkedin.com/in/kwadwo-amo-addai/) | [kwadwoamoad@gmail.com](mailto:kwadwoamoad@gmail.com) | [Book 30mins on my Calendar](https://calendly.com/kwadwoamoad/30min)
 
 <br />
 <br />
