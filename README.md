@@ -72,12 +72,12 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Financial Analysis, Algorithmic Trading, Business Intelligence, & Statistical Analysis - Python & R](https://github.com/Amo-Addai/financial-analysis-python-r)  ([in progress](https://github.com/Amo-Addai/financial-analysis-python-r))
+* [Financial Analysis, Statistical Analysis, Algorithmic Trading, Quant Models - Python & R](https://github.com/Amo-Addai/financial-analysis-python-r)  ([in progress](https://github.com/Amo-Addai/financial-analysis-python-r))
 
 <br />
 <br />
 
-* [Artificial Intelligence, Machine Learning, Business Intelligence, and Data Science Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in-progress](https://github.com/Amo-Addai/ai-ml-bi-da))
+* [Artificial Intelligence, Machine Learning, Data Science, & Business Intelligence Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in-progress](https://github.com/Amo-Addai/ai-ml-bi-da))
 
 <br />
 <br />
