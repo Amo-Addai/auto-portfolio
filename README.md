@@ -27,6 +27,11 @@ Here are the links to each project:
 <br />
 <br />
 
+* [Feature Development - Python, Java, C#, Swift, Golang, etc](https://github.com/Amo-Addai/feature-development)  ([repo](https://github.com/Amo-Addai/feature-development))
+
+<br />
+<br />
+
 * [Mobile-Portfolio - Mobile App Development](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([in progress](https://github.com/Amo-Addai/auto-mobile-portfolio))
 
 <br />
