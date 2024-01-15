@@ -27,7 +27,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Feature Development - Python, Java, C#, Swift, Golang, etc](https://github.com/Amo-Addai/feature-development)  ([repo](https://github.com/Amo-Addai/feature-development))
+* [Feature Development - Python, Java, C#, Swift, Golang, etc](https://github.com/Amo-Addai/feature-development)  ([in progress](https://github.com/Amo-Addai/feature-development))
 
 <br />
 <br />
@@ -82,7 +82,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Artificial Intelligence, Machine Learning, Data Science, & Business Intelligence Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in-progress](https://github.com/Amo-Addai/ai-ml-bi-da))
+* [Artificial Intelligence, Machine Learning, Data Science, & Business Intelligence Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in progress](https://github.com/Amo-Addai/ai-ml-bi-da))
 
 <br />
 <br />
