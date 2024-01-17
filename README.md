@@ -32,7 +32,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Mobile-Portfolio - Mobile App Development](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([in progress](https://github.com/Amo-Addai/auto-mobile-portfolio))
+* [Mobile App Development - Flutter, React Native, Ionic, Pure Native (Android, iOS, Windows Phone .MAUI)](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([in progress](https://github.com/Amo-Addai/auto-mobile-portfolio))
 
 <br />
 <br />
