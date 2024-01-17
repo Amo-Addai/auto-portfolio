@@ -17,7 +17,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Data Structures & Algorithms - ALL Programming Languages](https://github.com/Amo-Addai/data-algo)  ([repo](https://github.com/Amo-Addai/data-algo))
+* [Data Structures & Algorithms - ALL Programming Languages](https://github.com/Amo-Addai/data-algo)  ([in progress](https://github.com/Amo-Addai/data-algo))
 
 <br />
 <br />
