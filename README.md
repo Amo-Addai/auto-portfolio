@@ -22,7 +22,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [UI/UX Development - Html - Css - Javascript](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
+* [UI/UX Development - Html - Css - Javascript - React](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
 
 <br />
 <br />
@@ -82,22 +82,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Artificial Intelligence, Machine Learning, Data Science, & Business Intelligence Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in progress](https://github.com/Amo-Addai/ai-ml-bi-da))
-
-<br />
-<br />
-
 * [Blockchain DApps & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
-
-<br />
-<br />
-
-* [IoT & Embedded Systems Development - Arduino, Raspberry Pi, Beagle Bone, etc](https://github.com/Amo-Addai/iot-development)  ([in progress](https://github.com/Amo-Addai/iot-development))
-
-<br />
-<br />
-
-* [VR/AR/MR & Game Development - 3D Models with Blender, Unity, etc](https://github.com/Amo-Addai/xR-game-development)  ([in progress](https://github.com/Amo-Addai/xR-game-development))
 
 <br />
 <br />
