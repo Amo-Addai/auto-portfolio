@@ -72,7 +72,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [DevOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devops-ci-cd)  ([in progress](https://github.com/Amo-Addai/devops-ci-cd))
+* [DevSecOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devsecops-ci-cd)  ([in progress](https://github.com/Amo-Addai/devsecops-ci-cd))
 
 <br />
 <br />
