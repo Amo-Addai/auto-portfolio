@@ -98,9 +98,9 @@ Here are the links to each project:
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kwadwo-amo-addai/">Linkedin</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+<a href="https://calendly.com/kwadwoamoad/30min">Book 30mins on my Calendar</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
 <a href="mailto:kwadwoamoad@gmail.com">kwadwoamoad@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-<a href="https://calendly.com/kwadwoamoad/30min">Book 30mins on my Calendar</a>
+<a href="https://www.linkedin.com/in/kwadwo-amo-addai/">Linkedin</a>
 </p>
 
 <br />
