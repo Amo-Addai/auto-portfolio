@@ -17,7 +17,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Data Structures & Algorithms - ALL Programming Languages](https://github.com/Amo-Addai/data-algo)  ([in progress](https://github.com/Amo-Addai/data-algo))
+* [Data Structures & Algorithms - ALL Programming Languages](https://github.com/Amo-Addai/data-algo)  ([in progress](https://github.com/Amo-Addai/data-algo), [sample Big O explanation](https://docs.google.com/document/d/1KWwbliK1PYVXpt_njYhlCq8t373SC78eb_XJdECacTQ/edit?usp=sharing))
 
 <br />
 <br />
