@@ -27,7 +27,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Feature Development - Python, Java, C#, Swift, Golang, etc](https://github.com/Amo-Addai/feature-development)  ([in progress](https://github.com/Amo-Addai/feature-development))
+* [APIs & Feature Development - Node.js, Python, Java, C#, Swift, Golang, etc](https://github.com/Amo-Addai/api-feature-development)  ([repo](https://github.com/Amo-Addai/api-feature-development))
 
 <br />
 <br />
