@@ -32,11 +32,6 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Mobile App Development - Flutter, React Native, Ionic, Pure Native (Android, iOS, Windows Phone .MAUI)](https://github.com/Amo-Addai/auto-mobile-portfolio)  ([in progress](https://github.com/Amo-Addai/auto-mobile-portfolio))
-
-<br />
-<br />
-
 * [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([repo](https://github.com/Amo-Addai/nodejs-react-material-app))
 
 <br />
@@ -72,7 +67,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [DevSecOps Templates - Docker, Jenkins, Ansible](https://github.com/Amo-Addai/devsecops-ci-cd)  ([in progress](https://github.com/Amo-Addai/devsecops-ci-cd))
+* [DevSecOps Templates - Docker, Jenkins, Ansible, Terraform](https://github.com/Amo-Addai/devsecops-ci-cd)  ([repo](https://github.com/Amo-Addai/devsecops-ci-cd))
 
 <br />
 <br />
