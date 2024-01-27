@@ -66,7 +66,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [DevSecOps Templates - Docker, Jenkins, Ansible, Serverless, Terraform](https://github.com/Amo-Addai/devsecops-ci-cd)  ([repo](https://github.com/Amo-Addai/devsecops-ci-cd))
+* [DevSecOps Templates - Docker, Jenkins, Ansible, Serverless, Terraform | AWS, GCP, Azure](https://github.com/Amo-Addai/devsecops-ci-cd)  ([repo](https://github.com/Amo-Addai/devsecops-ci-cd))
 
 <br />
 <br />
