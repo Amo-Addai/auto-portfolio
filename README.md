@@ -61,7 +61,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Real Estate DApp - Solidity - Ethereum - Postgres DB (PostGIS) - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
+* [Real Estate (Property Enlistment) DApp - Solidity - Ethereum - Postgres DB (PostGIS) - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
 
 <br />
 <br />
