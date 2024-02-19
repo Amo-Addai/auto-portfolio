@@ -66,6 +66,11 @@ Here are the links to each project:
 <br />
 <br />
 
+* [User - ChatGPT Search Query App - ChatGPT-4 - SQL Server DB - C# - .NET - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-gpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-gpt-search-query-app))
+
+<br />
+<br />
+
 * [DevSecOps Templates - Docker, Jenkins, Ansible, Serverless, Terraform | AWS, GCP, Azure](https://github.com/Amo-Addai/devsecops-ci-cd)  ([repo](https://github.com/Amo-Addai/devsecops-ci-cd))
 
 <br />
