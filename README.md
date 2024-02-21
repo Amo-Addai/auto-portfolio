@@ -66,7 +66,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [User - ChatGPT Search Query App - ChatGPT-4 - SQL Server DB - C# - .NET - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-gpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-gpt-search-query-app))
+* [User - ChatGPT Search Query App - ChatGPT-4 - SQL Server DB - C# - .NET - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
 
 <br />
 <br />
