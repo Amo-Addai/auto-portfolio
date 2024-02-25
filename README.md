@@ -31,37 +31,7 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([repo](https://github.com/Amo-Addai/nodejs-react-material-app))
-
-<br />
-<br />
-
-* [Golang - Fiber - Angular - Now UI](https://github.com/Amo-Addai/golang-angular-now-app)  ([repo](https://github.com/Amo-Addai/golang-angular-now-app))
-
-<br />
-<br />
-
-* [Node.js - NestJS - Next.js - Material UI](https://github.com/Amo-Addai/nest-next-material-app)  ([repo](https://github.com/Amo-Addai/nest-next-material-app))
-
-<br />
-<br />
-
-* [Python - Django - Black UI](https://github.com/Amo-Addai/django-black-app)  ([repo](https://github.com/Amo-Addai/django-black-app))
-
-<br />
-<br />
-
-* [Python - Flask - Material UI](https://github.com/Amo-Addai/flask-material-app)  ([repo](https://github.com/Amo-Addai/flask-material-app))
-
-<br />
-<br />
-
-* [Laravel - Vue - Black UI](https://github.com/Amo-Addai/laravel-vue-black-app)  ([repo](https://github.com/Amo-Addai/laravel-vue-black-app))
-
-<br />
-<br />
-
-* [C# - ASP .NET - Argon UI](https://github.com/Amo-Addai/asp-net-argon-app)  ([repo](https://github.com/Amo-Addai/asp-net-argon-app))
+* [User - ChatGPT Search Query App - ChatGPT-4 - Multiple DBs (Sqlite, SQL Server, MySql) - C# - .NET EntityFramework - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
 
 <br />
 <br />
@@ -71,7 +41,37 @@ Here are the links to each project:
 <br />
 <br />
 
-* [User - ChatGPT Search Query App - ChatGPT-4 - Multiple DBs (Sqlite, SQL Server, MySql) - C# - .NET EntityFramework - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
+* [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([in-progress](https://github.com/Amo-Addai/nodejs-react-material-app))
+
+<br />
+<br />
+
+* [Golang - Fiber - Angular - Now UI](https://github.com/Amo-Addai/golang-angular-now-app)  ([in-progress](https://github.com/Amo-Addai/golang-angular-now-app))
+
+<br />
+<br />
+
+* [Node.js - NestJS - Next.js - Material UI](https://github.com/Amo-Addai/nest-next-material-app)  ([in-progress](https://github.com/Amo-Addai/nest-next-material-app))
+
+<br />
+<br />
+
+* [Python - Django - Black UI](https://github.com/Amo-Addai/django-black-app)  ([in-progress](https://github.com/Amo-Addai/django-black-app))
+
+<br />
+<br />
+
+* [Python - Flask - Material UI](https://github.com/Amo-Addai/flask-material-app)  ([in-progress](https://github.com/Amo-Addai/flask-material-app))
+
+<br />
+<br />
+
+* [Laravel - Vue - Black UI](https://github.com/Amo-Addai/laravel-vue-black-app)  ([in-progress](https://github.com/Amo-Addai/laravel-vue-black-app))
+
+<br />
+<br />
+
+* [C# - ASP .NET - Argon UI](https://github.com/Amo-Addai/asp-net-argon-app)  ([in-progress](https://github.com/Amo-Addai/asp-net-argon-app))
 
 <br />
 <br />
