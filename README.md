@@ -41,6 +41,11 @@ Here are the links to each project:
 <br />
 <br />
 
+* [Node.js - NestJS - Next.js - Material UI](https://github.com/Amo-Addai/nest-next-material-app)  ([repo](https://github.com/Amo-Addai/nest-next-material-app))
+
+<br />
+<br />
+
 * [Python - Django - Black UI](https://github.com/Amo-Addai/django-black-app)  ([repo](https://github.com/Amo-Addai/django-black-app))
 
 <br />
