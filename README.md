@@ -47,12 +47,12 @@ Here are the links to each project:
 <br />
 <br />
 
-* [Golang - Fiber - Angular - Now UI](https://github.com/Amo-Addai/golang-angular-now-app)  ([in-progress](https://github.com/Amo-Addai/golang-angular-now-app))
-
-<br />
-<br />
-
 * [Node.js - NestJS - React - Next.js - Material UI](https://github.com/Amo-Addai/nest-next-material-app)  ([in-progress](https://github.com/Amo-Addai/nest-next-material-app))
+
+<br />
+<br />
+
+* [Golang - Fiber - Angular - Now UI](https://github.com/Amo-Addai/golang-angular-now-app)  ([in-progress](https://github.com/Amo-Addai/golang-angular-now-app))
 
 <br />
 <br />
