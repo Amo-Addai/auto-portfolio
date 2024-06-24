@@ -6,13 +6,17 @@
 
 Explore my GitHub Mono-Repo Hub of innovation with diverse full-stack and other playground projects. 
 
-It includes UI styles like Material, Argon, and more, blended seamlessly with React, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others, it's a playground for dynamic tech stack combinations. 
+It includes multiple software architecture and engineering projects from Web development (full-stack - front-end & back-end), Product designing, Mobile & Desktop development, Cloud engineering, Blockchain, AI/ML, and other facets of engineering. 
+
+Full-Stack Web Development Projects specifically, include UI styles and design systems like Material, Argon, and more, blended seamlessly with React, Next.js, Angular, and Vue. Backed by Node.js, Django, Flask, Laravel, ASP .NET, and others. 
+
+This is a playground for dynamic tech stack combinations. 
 
 <br />
 <br />
 
 
-Here are the links to each project:
+## Here are the links to each project and repository:
 
 <br />
 <br />
@@ -32,7 +36,39 @@ Here are the links to each project:
 <br />
 <br />
 
+* [DevSecOps Templates - Docker, Jenkins, Ansible, Serverless, Terraform | AWS, GCP, Azure](https://github.com/Amo-Addai/devsecops-ci-cd)  ([repo](https://github.com/Amo-Addai/devsecops-ci-cd))
+
+<br />
+<br />
+
+* [Financial Analysis, Statistical Analysis, Algorithmic Trading, Quant Models - Python & R](https://github.com/Amo-Addai/financial-analysis-python-r)  ([in progress](https://github.com/Amo-Addai/financial-analysis-python-r), [financial models](https://drive.google.com/drive/folders/14jqhLeGn27UjsFm8th80dElSG0Ul1r0r?usp=sharing))
+
+<br />
+<br />
+
+* [Artificial Intelligence, Machine Learning, Data Science, & Business Intelligence Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in progress](https://github.com/Amo-Addai/ai-ml-bi-da), [BI models](https://drive.google.com/drive/folders/14jqhLeGn27UjsFm8th80dElSG0Ul1r0r?usp=sharing))
+
+<br />
+<br />
+
+* [Blockchain DApps & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
+
+<br />
+<br />
+
+
+### Specific Projects with multiple Tech-Stack combinations
+
+<br />
+<br />
+
+
 * [User - ChatGPT Search Query App - ChatGPT-4 - Multiple DBs (Sqlite, SQL Server, MySql) - C# - .NET EntityFramework - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
+
+<br />
+<br />
+
+* [User - Video-Call & Chat App - Node.js-Express - Firebase - Twilio Programmable Video - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-video-call-chat-app)  ([repo](https://github.com/Amo-Addai/user-video-call-chat-app))
 
 <br />
 <br />
@@ -77,23 +113,19 @@ Here are the links to each project:
 <br />
 <br />
 
-* [DevSecOps Templates - Docker, Jenkins, Ansible, Serverless, Terraform | AWS, GCP, Azure](https://github.com/Amo-Addai/devsecops-ci-cd)  ([repo](https://github.com/Amo-Addai/devsecops-ci-cd))
+* [Java - Spring - VanillaJS - JQuery](https://github.com/Amo-Addai/spring-js-jquery-app)  ([in-progress](https://github.com/Amo-Addai/spring-js-jquery-app))
 
 <br />
 <br />
 
-* [Financial Analysis, Statistical Analysis, Algorithmic Trading, Quant Models - Python & R](https://github.com/Amo-Addai/financial-analysis-python-r)  ([in progress](https://github.com/Amo-Addai/financial-analysis-python-r), [financial models](https://drive.google.com/drive/folders/14jqhLeGn27UjsFm8th80dElSG0Ul1r0r?usp=sharing))
+* [Ruby on Rails - Notus - Svelte UI](https://github.com/Amo-Addai/rails-notus-svelte-app)  ([in-progress](https://github.com/Amo-Addai/rails-notus-svelte-app))
 
 <br />
 <br />
 
-* [Artificial Intelligence, Machine Learning, Data Science, & Business Intelligence Models](https://github.com/Amo-Addai/ai-ml-bi-da)  ([in progress](https://github.com/Amo-Addai/ai-ml-bi-da), [BI models](https://drive.google.com/drive/folders/14jqhLeGn27UjsFm8th80dElSG0Ul1r0r?usp=sharing))
+* [Node.js - AdonisJS - Vue - Nuxt.js - Black UI](https://github.com/Amo-Addai/adonis-nuxt-black-app)  ([in-progress](https://github.com/Amo-Addai/adonis-nuxt-black-app))
 
 <br />
-<br />
-
-* [Blockchain DApps & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
-
 <br />
 <br />
 
@@ -101,13 +133,16 @@ Here are the links to each project:
 
 <br />
 <br />
+<br />
 
 * Feel free to reach out to me directly to gain access to some of my private projects (on [github](https://github.com/Amo-Addai/), [gitlab](https://gitlab.com/users/Mr.Amo-Addai/), or [bitbucket](https://bitbucket.org/kwadwo_amoad/)):
 
 <br />
 <br />
+<br />
 
 <p align="center"><a href="https://calendly.com/kwadwoamoad/30min">Book 30mins on my Calendar</a></p>
 
+<br />
 <br />
 <br />
