@@ -26,7 +26,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [UI/UX & Websites Development - Html, Css, Javascript - React, Next.js, Angular, Vue - Tailwind, Bootstrap, Svelte, etc](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
+* [UI/UX & Website Development - Html, Css, Javascript - React, Next.js, Angular, Vue - Tailwind, Bootstrap, Svelte, etc](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
 
 <br />
 <br />
