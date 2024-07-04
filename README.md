@@ -12,9 +12,9 @@ Full-Stack Web Development Projects specifically, include UI styles and design s
 
 This is a playground for dynamic tech stack combinations. 
 
-<br />
-<br />
 
+<br />
+<br />
 
 ## Here are the links to each project and repository:
 
@@ -61,7 +61,6 @@ This is a playground for dynamic tech stack combinations.
 
 <br />
 <br />
-
 
 * [User - ChatGPT Search Query App - ChatGPT-4 - Multiple DBs (Sqlite, SQL Server, MySql) - C# - .NET EntityFramework - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
 
