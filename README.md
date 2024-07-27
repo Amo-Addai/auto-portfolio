@@ -81,6 +81,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [MicroServices Ticketing App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
+
+<br />
+<br />
+
 * [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([in-progress](https://github.com/Amo-Addai/nodejs-react-material-app))
 
 <br />
@@ -116,7 +121,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Java - Spring - VanillaJS - JQuery](https://github.com/Amo-Addai/spring-js-jquery-app)  ([in-progress](https://github.com/Amo-Addai/spring-js-jquery-app))
+* [Java - Spring - VanillaJS - JQuery](https://github.com/Amo-Addai/spring-vanilla-jquery-app)  ([in-progress](https://github.com/Amo-Addai/spring-vanilla-jquery-app))
 
 <br />
 <br />
