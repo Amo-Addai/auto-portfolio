@@ -40,6 +40,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Mobile App Development - Flutter, React Native, Ionic, Pure Native (Android, iOS, Windows Phone (UWP), .NET MAUI)](https://github.com/Amo-Addai/mobile-app-development)  ([in progress](https://github.com/Amo-Addai/mobile-app-development))
+
+<br />
+<br />
+
 * [DevSecOps Templates - Docker, Jenkins, Ansible, Serverless, Terraform | AWS, GCP, Azure](https://github.com/Amo-Addai/devsecops-ci-cd)  ([repo](https://github.com/Amo-Addai/devsecops-ci-cd))
 
 <br />
