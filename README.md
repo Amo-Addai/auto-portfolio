@@ -30,12 +30,12 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [UI/UX & Website Development - Html, Css, Javascript - React, Next.js, Angular, Vue - Tailwind, Bootstrap, Svelte, etc](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
+* [Front-End - UI/UX & Website Development - Html, Css, Javascript - React, Next.js, Angular, Vue - Tailwind, Bootstrap, Svelte, etc](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
 
 <br />
 <br />
 
-* [APIs & Feature Development - Node.js, Python, Java, Php, C#, Swift, Golang, Ruby, etc](https://github.com/Amo-Addai/api-feature-development)  ([repo](https://github.com/Amo-Addai/api-feature-development))
+* [Back-End - APIs & Feature Development - Node.js, Python, Java, Php, C#, Swift, Golang, Ruby, etc](https://github.com/Amo-Addai/api-feature-development)  ([repo](https://github.com/Amo-Addai/api-feature-development))
 
 <br />
 <br />
