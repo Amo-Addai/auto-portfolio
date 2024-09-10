@@ -91,6 +91,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [WooCommerce eCommerce App - Ionic-Angular - WooCommerce-Api - (Mobile-Web - Android & iOS)](https://github.com/Amo-Addai/ionic-woocommerce-app)  ([repo](https://github.com/Amo-Addai/ionic-woocommerce-app))
+
+<br />
+<br />
+
 * [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([in-progress](https://github.com/Amo-Addai/nodejs-react-material-app))
 
 <br />
