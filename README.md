@@ -50,7 +50,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Financial Analysis, Statistical Analysis, Algorithmic Trading, Quant Models - Python & R](https://github.com/Amo-Addai/financial-analysis-python-r)  ([in progress](https://github.com/Amo-Addai/financial-analysis-python-r), [financial models](https://drive.google.com/drive/folders/14jqhLeGn27UjsFm8th80dElSG0Ul1r0r?usp=sharing))
+* [Quant Models, Financial Analysis, Statistical Analysis, Algorithmic Trading - Python & R](https://github.com/Amo-Addai/quant-financial-analysis-python-r)  ([in progress](https://github.com/Amo-Addai/quant-financial-analysis-python-r), [financial models](https://drive.google.com/drive/folders/14jqhLeGn27UjsFm8th80dElSG0Ul1r0r?usp=sharing))
 
 <br />
 <br />
