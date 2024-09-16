@@ -86,6 +86,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Simple Documents Database/Directory - MongoDB - Python - Flask](https://github.com/Amo-Addai/python-flask-file-database)  ([repo](https://github.com/Amo-Addai/python-flask-file-database))
+
+<br />
+<br />
+
 * [MicroServices Ticketing App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
 
 <br />
