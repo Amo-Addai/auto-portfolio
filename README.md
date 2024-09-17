@@ -71,12 +71,12 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [User - ChatGPT Search Query App - ChatGPT-4 - Multiple DBs (Sqlite, SQL Server, MySql) - C# - .NET EntityFramework - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
+* [User - ChatGPT Search Query Mobile App - ChatGPT-4 - Multiple DBs (Sqlite, SQL Server, MySql) - C# - .NET EntityFramework - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
 
 <br />
 <br />
 
-* [User - Video-Call & Chat App - Node.js-Express - Firebase - Twilio Programmable Video - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-video-call-chat-app)  ([repo](https://github.com/Amo-Addai/user-video-call-chat-app))
+* [User - Video-Call & Chat Mobile App - Node.js-Express - Firebase - Twilio Programmable Video - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-video-call-chat-app)  ([repo](https://github.com/Amo-Addai/user-video-call-chat-app))
 
 <br />
 <br />
@@ -86,67 +86,72 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Simple Documents Database/Directory - MongoDB - Python - Flask](https://github.com/Amo-Addai/python-flask-file-database)  ([repo](https://github.com/Amo-Addai/python-flask-file-database))
+* [Simple Documents Database/Directory - MongoDB - Python - Flask - Pandas](https://github.com/Amo-Addai/python-flask-file-database)  ([repo](https://github.com/Amo-Addai/python-flask-file-database))
 
 <br />
 <br />
 
-* [MicroServices Ticketing App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
+* [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
 
 <br />
 <br />
 
-* [WooCommerce eCommerce App - Ionic-Angular - WooCommerce-Api - (Mobile-Web - Android & iOS)](https://github.com/Amo-Addai/ionic-woocommerce-app)  ([repo](https://github.com/Amo-Addai/ionic-woocommerce-app))
+* [Azure Services Travel-Record Mobile App - C# Xamarin - Sqlite DB - MS Azure (App Services, Cloud Database)](https://github.com/Amo-Addai/azure-services-travel-record-app)  ([repo](https://github.com/Amo-Addai/azure-services-travel-record-app))
 
 <br />
 <br />
 
-* [Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([in-progress](https://github.com/Amo-Addai/nodejs-react-material-app))
+* [WooCommerce eCommerce Mobile App - Ionic-Angular - WooCommerce-Api - (Mobile-Web - Android & iOS)](https://github.com/Amo-Addai/ionic-woocommerce-app)  ([repo](https://github.com/Amo-Addai/ionic-woocommerce-app))
 
 <br />
 <br />
 
-* [Node.js - NestJS - React - Next.js - Material UI](https://github.com/Amo-Addai/nest-next-material-app)  ([in-progress](https://github.com/Amo-Addai/nest-next-material-app))
+* [Template Dashboard - Node.js - Express - React - Material UI](https://github.com/Amo-Addai/nodejs-react-material-app)  ([in-progress](https://github.com/Amo-Addai/nodejs-react-material-app))
 
 <br />
 <br />
 
-* [Golang - Fiber - Angular - Now UI](https://github.com/Amo-Addai/golang-angular-now-app)  ([in-progress](https://github.com/Amo-Addai/golang-angular-now-app))
+* [Template Dashboard - Node.js - NestJS - React - Next.js - Material UI](https://github.com/Amo-Addai/nest-next-material-app)  ([in-progress](https://github.com/Amo-Addai/nest-next-material-app))
 
 <br />
 <br />
 
-* [Python - Django - Black UI](https://github.com/Amo-Addai/django-black-app)  ([in-progress](https://github.com/Amo-Addai/django-black-app))
+* [Template Dashboard - Golang - Fiber - Angular - Now UI](https://github.com/Amo-Addai/golang-angular-now-app)  ([in-progress](https://github.com/Amo-Addai/golang-angular-now-app))
 
 <br />
 <br />
 
-* [Python - Flask - Material UI](https://github.com/Amo-Addai/flask-material-app)  ([in-progress](https://github.com/Amo-Addai/flask-material-app))
+* [Template Dashboard - Python - Django - Black UI](https://github.com/Amo-Addai/django-black-app)  ([in-progress](https://github.com/Amo-Addai/django-black-app))
 
 <br />
 <br />
 
-* [Php - Laravel - Vue - Black UI](https://github.com/Amo-Addai/laravel-vue-black-app)  ([in-progress](https://github.com/Amo-Addai/laravel-vue-black-app))
+* [Template Dashboard - Python - Flask - Material UI](https://github.com/Amo-Addai/flask-material-app)  ([in-progress](https://github.com/Amo-Addai/flask-material-app))
 
 <br />
 <br />
 
-* [C# - ASP .NET - Argon UI](https://github.com/Amo-Addai/asp-net-argon-app)  ([in-progress](https://github.com/Amo-Addai/asp-net-argon-app))
+* [Template Dashboard - Php - Laravel - Vue - Black UI](https://github.com/Amo-Addai/laravel-vue-black-app)  ([in-progress](https://github.com/Amo-Addai/laravel-vue-black-app))
 
 <br />
 <br />
 
-* [Java - Spring - VanillaJS - JQuery](https://github.com/Amo-Addai/spring-vanilla-jquery-app)  ([in-progress](https://github.com/Amo-Addai/spring-vanilla-jquery-app))
+* [Template Dashboard - C# - ASP .NET - Argon UI](https://github.com/Amo-Addai/asp-net-argon-app)  ([in-progress](https://github.com/Amo-Addai/asp-net-argon-app))
 
 <br />
 <br />
 
-* [Ruby on Rails - Notus - Svelte UI](https://github.com/Amo-Addai/rails-notus-svelte-app)  ([in-progress](https://github.com/Amo-Addai/rails-notus-svelte-app))
+* [Template Dashboard - Java - Spring - VanillaJS - JQuery](https://github.com/Amo-Addai/spring-vanilla-jquery-app)  ([in-progress](https://github.com/Amo-Addai/spring-vanilla-jquery-app))
 
 <br />
 <br />
 
-* [Node.js - AdonisJS - Vue - Nuxt.js - Black UI](https://github.com/Amo-Addai/adonis-nuxt-black-app)  ([in-progress](https://github.com/Amo-Addai/adonis-nuxt-black-app))
+* [Template Dashboard - Ruby on Rails - Notus - Svelte UI](https://github.com/Amo-Addai/rails-notus-svelte-app)  ([in-progress](https://github.com/Amo-Addai/rails-notus-svelte-app))
+
+<br />
+<br />
+
+* [Template Dashboard - Node.js - AdonisJS - Vue - Nuxt.js - Black UI](https://github.com/Amo-Addai/adonis-nuxt-black-app)  ([in-progress](https://github.com/Amo-Addai/adonis-nuxt-black-app))
 
 <br />
 <br />
