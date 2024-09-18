@@ -30,17 +30,22 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Front-End - UI/UX & Website Development - Html, Css, Javascript - React, Next.js, Angular, Vue - Tailwind, Bootstrap, Svelte, etc](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
-
-<br />
-<br />
-
 * [Back-End - APIs & Feature Development - Node.js, Python, Java, Php, C#, Swift, Golang, Ruby, etc](https://github.com/Amo-Addai/api-feature-development)  ([repo](https://github.com/Amo-Addai/api-feature-development))
 
 <br />
 <br />
 
+* [Front-End - UI/UX & Website Development - Html, Css, Javascript - React, Next.js, Angular, Vue - Tailwind, Bootstrap, Svelte, etc](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
+
+<br />
+<br />
+
 * [Mobile App Development - Flutter, React Native, Ionic, Pure Native (Android, iOS, Windows Phone (UWP), .NET MAUI)](https://github.com/Amo-Addai/mobile-app-development)  ([in progress](https://github.com/Amo-Addai/mobile-app-development))
+
+<br />
+<br />
+
+* [Desktop App Development - Electron, C# - Windows Forms, JavaFX](https://github.com/Amo-Addai/desktop-app-development)  ([in progress](https://github.com/Amo-Addai/desktop-app-development))
 
 <br />
 <br />
@@ -71,6 +76,26 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
+
+<br />
+<br />
+
+* [Real Estate (Property Enlistment) DApp - Solidity - Ethereum - PostgreSQL DB (PostGIS) - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
+
+<br />
+<br />
+
+* [Azure Services Travel-Record Mobile App - C# Xamarin - Sqlite DB - MS Azure (App & Storage Services)](https://github.com/Amo-Addai/azure-services-travel-record-app)  ([repo](https://github.com/Amo-Addai/azure-services-travel-record-app))
+
+<br />
+<br />
+
+* [WooCommerce eCommerce Mobile App - Ionic-Angular - WooCommerce-Api - (Mobile-Web - Android & iOS)](https://github.com/Amo-Addai/ionic-woocommerce-app)  ([repo](https://github.com/Amo-Addai/ionic-woocommerce-app))
+
+<br />
+<br />
+
 * [User - ChatGPT Search Query Mobile App - ChatGPT-4 - Multiple DBs (Sqlite, SQL Server, MySql) - C# - .NET EntityFramework - Flutter (Web & Mobile - Android & iOS)](https://github.com/Amo-Addai/user-chatgpt-search-query-app)  ([repo](https://github.com/Amo-Addai/user-chatgpt-search-query-app))
 
 <br />
@@ -81,27 +106,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Real Estate (Property Enlistment) DApp - Solidity - Ethereum - PostgreSQL DB (PostGIS) - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
-
-<br />
-<br />
-
 * [Simple Documents Database/Directory - MongoDB - Python - Flask - Pandas](https://github.com/Amo-Addai/python-flask-file-database)  ([repo](https://github.com/Amo-Addai/python-flask-file-database))
-
-<br />
-<br />
-
-* [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
-
-<br />
-<br />
-
-* [Azure Services Travel-Record Mobile App - C# Xamarin - Sqlite DB - MS Azure (App Services, Cloud Database)](https://github.com/Amo-Addai/azure-services-travel-record-app)  ([repo](https://github.com/Amo-Addai/azure-services-travel-record-app))
-
-<br />
-<br />
-
-* [WooCommerce eCommerce Mobile App - Ionic-Angular - WooCommerce-Api - (Mobile-Web - Android & iOS)](https://github.com/Amo-Addai/ionic-woocommerce-app)  ([repo](https://github.com/Amo-Addai/ionic-woocommerce-app))
 
 <br />
 <br />
