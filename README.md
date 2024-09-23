@@ -76,12 +76,12 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
-
-<br />
-<br />
-
 * [Real Estate (Property Enlistment) DApp - Solidity - Ethereum - PostgreSQL DB (PostGIS) - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
+
+<br />
+<br />
+
+* [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
 
 <br />
 <br />
