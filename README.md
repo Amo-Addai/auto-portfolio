@@ -81,6 +81,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Google Clone - Next.js 12 - TailwindCSS](https://github.com/Amo-Addai/google-clone-nextjs12)  ([repo](https://github.com/Amo-Addai/google-clone-nextjs12))
+
+<br />
+<br />
+
 * [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
 
 <br />
