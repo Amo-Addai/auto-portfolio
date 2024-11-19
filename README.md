@@ -16,7 +16,13 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-## Here are the links to each project and repository:
+* [Automan Technologies - Basic ERP Sample - Api Only - Mongo DB (Mongoose) - Node.js - Express - React (not required here - build your own)](https://github.com/Amo-Addai/automan-tech-erp)  ([repo](https://github.com/Amo-Addai/automan-tech-erp))
+
+<br />
+<br />
+
+
+## Here are links to other notebook projects and repositories:
 
 <br />
 <br />
