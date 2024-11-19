@@ -72,6 +72,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Automan Technologies - Basic ERP Sample - Api Only - Mongo DB (Mongoose) - Node.js - Express - React (not available - build your own)](https://github.com/Amo-Addai/automan-tech-erp)  ([repo](https://github.com/Amo-Addai/automan-tech-erp))
+
+<br />
+<br />
+
 * [Real Estate (Property Enlistment) DApp - Solidity - Ethereum - PostgreSQL DB (PostGIS) - Node.js - Express - React](https://github.com/Amo-Addai/real-estate-blockchain-dapp)  ([repo](https://github.com/Amo-Addai/real-estate-blockchain-dapp))
 
 <br />
