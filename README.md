@@ -16,7 +16,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Automan Technologies - Basic ERP Sample - Api Only - Mongo DB (Mongoose) - Node.js - Express - Frontend (not required here - build your own web / desktop / mobile app clients)](https://github.com/Amo-Addai/automan-tech-erp)  ([repo](https://github.com/Amo-Addai/automan-tech-erp))
+* [Automan Technologies - Basic ERP Sample - Backend Api Only - Mongo DB (Mongoose) - Node.js - Express - Frontend (not required here - build your own web / desktop / mobile app clients)](https://github.com/Amo-Addai/automan-tech-erp)  ([repo](https://github.com/Amo-Addai/automan-tech-erp))
 
 <br />
 <br />
@@ -78,7 +78,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Automan Technologies - Basic ERP Sample - Api Only - Mongo DB (Mongoose) - Node.js - Express - Frontend (not required here - build your own web / desktop / mobile app clients)](https://github.com/Amo-Addai/automan-tech-erp)  ([repo](https://github.com/Amo-Addai/automan-tech-erp))
+* [Automan Technologies - Basic ERP Sample - Backend Api Only - Mongo DB (Mongoose) - Node.js - Express - Frontend (not required here - build your own web / desktop / mobile app clients)](https://github.com/Amo-Addai/automan-tech-erp)  ([repo](https://github.com/Amo-Addai/automan-tech-erp))
 
 <br />
 <br />
