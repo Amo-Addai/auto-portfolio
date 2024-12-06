@@ -21,6 +21,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Sample Ruby on Rails - Backend Api Only - PostgreSQL DB - Ruby on Rails](https://github.com/Amo-Addai/rails-api-avva)  ([repo](https://github.com/Amo-Addai/rails-api-avva))
+
+<br />
+<br />
+
 
 ## Here are links to other notebook projects and repositories:
 
@@ -79,6 +84,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 
 * [Automan Technologies - Basic ERP Sample - Backend Api Only - Mongo DB (Mongoose) - Node.js - Express - Frontend (not required here - build your own web / desktop / mobile app clients)](https://github.com/Amo-Addai/automan-tech-erp)  ([repo](https://github.com/Amo-Addai/automan-tech-erp))
+
+<br />
+<br />
+
+* [Sample Ruby on Rails - Backend Api Only - PostgreSQL DB - Ruby on Rails](https://github.com/Amo-Addai/rails-api-avva)  ([repo](https://github.com/Amo-Addai/rails-api-avva))
 
 <br />
 <br />
