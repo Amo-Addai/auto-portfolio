@@ -98,7 +98,22 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Elo (Coin) Token DApp - React - Moralis (Web3.js) - Solidity - Frpc](https://github.com/Amo-Addai/eco-coin-dapp)  ([repo](https://github.com/Amo-Addai/eco-coin-dapp))
+
+<br />
+<br />
+
+* [Aptec Softchain - Mongo DB (Mongoose) - Node.js - Express - Next.js - Web3.js - TypeChain](https://github.com/Amo-Addai/aptec-softchain)  ([repo](https://github.com/Amo-Addai/aptec-softchain))
+
+<br />
+<br />
+
 * [Google Clone - Next.js 12 - TailwindCSS](https://github.com/Amo-Addai/google-clone-nextjs12)  ([repo](https://github.com/Amo-Addai/google-clone-nextjs12))
+
+<br />
+<br />
+
+* [Jet Racing Game - Mongo DB (Mongoose) - Node.js - Express - React - Three.js - React-Three](https://github.com/Amo-Addai/jet-racing-game)  ([repo](https://github.com/Amo-Addai/jet-racing-game))
 
 <br />
 <br />
