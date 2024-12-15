@@ -21,11 +21,6 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Sample Ruby on Rails - Backend Api Only - PostgreSQL DB - Ruby on Rails](https://github.com/Amo-Addai/rails-api-avva)  ([repo](https://github.com/Amo-Addai/rails-api-avva))
-
-<br />
-<br />
-
 
 ## Here are links to other notebook projects and repositories:
 
@@ -48,11 +43,6 @@ This is a playground for dynamic tech stack combinations.
 <br />
 
 * [Mobile App Development - Flutter, React Native, Ionic, Pure Native (Android, iOS, Windows Phone (UWP), .NET MAUI)](https://github.com/Amo-Addai/mobile-app-development)  ([in progress](https://github.com/Amo-Addai/mobile-app-development))
-
-<br />
-<br />
-
-* [Desktop App Development - Electron, C# - Windows Forms, JavaFX](https://github.com/Amo-Addai/desktop-app-development)  ([in progress](https://github.com/Amo-Addai/desktop-app-development))
 
 <br />
 <br />
@@ -108,7 +98,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Google Clone - Next.js 12 - TailwindCSS](https://github.com/Amo-Addai/google-clone-nextjs12)  ([repo](https://github.com/Amo-Addai/google-clone-nextjs12))
+* [Google Clone - Next.js 12 - TailwindCSS](https://github.com/Amo-Addai/google-clone-nextjs12)  ([in progress](https://github.com/Amo-Addai/google-clone-nextjs12))
 
 <br />
 <br />
@@ -118,12 +108,12 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([repo](https://github.com/Amo-Addai/azure-services-ticketing-app))
+* [MicroServices Ticketing Web App - C# .NET - Sql Server - MS Azure (Services, VMs, Load Balancer, Queues, Cache) - RabbitMQ (Message Broker)](https://github.com/Amo-Addai/azure-services-ticketing-app)  ([in progress](https://github.com/Amo-Addai/azure-services-ticketing-app))
 
 <br />
 <br />
 
-* [Azure Services Travel-Record Mobile App - C# Xamarin - Sqlite DB - MS Azure (App & Storage Services)](https://github.com/Amo-Addai/azure-services-travel-record-app)  ([repo](https://github.com/Amo-Addai/azure-services-travel-record-app))
+* [Azure Services Travel-Record Mobile App - C# Xamarin - Sqlite DB - MS Azure (App & Storage Services)](https://github.com/Amo-Addai/azure-services-travel-record-app)  ([in progress](https://github.com/Amo-Addai/azure-services-travel-record-app))
 
 <br />
 <br />
