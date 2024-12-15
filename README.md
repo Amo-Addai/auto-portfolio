@@ -172,21 +172,6 @@ This is a playground for dynamic tech stack combinations.
 
 <br />
 <br />
-
-* [Template Dashboard - Java - Spring - VanillaJS - JQuery](https://github.com/Amo-Addai/spring-vanilla-jquery-app)  ([in-progress](https://github.com/Amo-Addai/spring-vanilla-jquery-app))
-
-<br />
-<br />
-
-* [Template Dashboard - Ruby on Rails - Notus - Svelte UI](https://github.com/Amo-Addai/rails-notus-svelte-app)  ([in-progress](https://github.com/Amo-Addai/rails-notus-svelte-app))
-
-<br />
-<br />
-
-* [Template Dashboard - Node.js - AdonisJS - Vue - Nuxt.js - Black UI](https://github.com/Amo-Addai/adonis-nuxt-black-app)  ([in-progress](https://github.com/Amo-Addai/adonis-nuxt-black-app))
-
-<br />
-<br />
 <br />
 
 * [All my Public GitHub projects](https://github.com/Amo-Addai?tab=repositories)
