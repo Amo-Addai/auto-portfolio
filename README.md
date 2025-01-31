@@ -78,6 +78,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Chatbot Apis - Backend Microservices Only - Serverless - AWS (S3, Lambda, Cognito, etc) - Golang Microservices](https://github.com/Amo-Addai/chatbot-apis-serverless-aws-golang-microservices)  ([repo](https://github.com/Amo-Addai/chatbot-apis-serverless-aws-golang-microservices))
+
+<br />
+<br />
+
 * [Sample Ruby on Rails - Backend Api Only - PostgreSQL DB - Ruby on Rails](https://github.com/Amo-Addai/rails-api-avva)  ([repo](https://github.com/Amo-Addai/rails-api-avva))
 
 <br />
