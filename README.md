@@ -78,7 +78,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Chatbot Apis - Backend Microservices Only - Serverless - AWS (Lambda, S3, DynamoDB, Cognito, SQS, SNS, etc) - Golang Microservices](https://github.com/Amo-Addai/chatbot-apis-serverless-aws-golang-microservices)  ([repo](https://github.com/Amo-Addai/chatbot-apis-serverless-aws-golang-microservices))
+* [ChatBot Microservice APIs - Backend Microservices Only - Serverless - AWS (Lambda, S3, DynamoDB, Cognito, SQS, SNS, etc) - Golang Microservices](https://github.com/Amo-Addai/chatbot-apis-serverless-aws-golang-microservices)  ([repo](https://github.com/Amo-Addai/chatbot-apis-serverless-aws-golang-microservices))
 
 <br />
 <br />
