@@ -27,6 +27,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Sending Tech Startup Investor Email Pitches, in Automation - Node.js](https://github.com/Amo-Addai/auto-comm)  ([in progress](https://github.com/Amo-Addai/auto-comm))
+
+<br />
+<br />
+
 * [Data Structures & Algorithms - Coding Styles & Design Patterns - Most Programming Languages](https://github.com/Amo-Addai/data-algo)  ([in progress](https://github.com/Amo-Addai/data-algo), [Sample Big-O Explanation](https://docs.google.com/document/d/1KWwbliK1PYVXpt_njYhlCq8t373SC78eb_XJdECacTQ/edit?usp=sharing))
 
 <br />
