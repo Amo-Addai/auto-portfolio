@@ -21,13 +21,13 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+* [Sending Tech Startup Investor Email Pitches, in Automation - Node.js](https://github.com/Amo-Addai/auto-comm)  ([in progress](https://github.com/Amo-Addai/auto-comm))
+
+<br />
+<br />
+
 
 ## Here are links to other notebook projects and repositories:
-
-<br />
-<br />
-
-* [Sending Tech Startup Investor Email Pitches, in Automation - Node.js](https://github.com/Amo-Addai/auto-comm)  ([in progress](https://github.com/Amo-Addai/auto-comm))
 
 <br />
 <br />
