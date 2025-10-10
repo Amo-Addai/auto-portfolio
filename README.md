@@ -32,6 +32,11 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+** [Software & Cloud Architecture - Arch. & Design Patterns, and Important Technical Decisions (ITD) Documentation](https://github.com/Amo-Addai/cloud-software-architecture)  ([in progress](https://github.com/Amo-Addai/cloud-software-architecture))
+
+<br />
+<br />
+
 * [Data Structures & Algorithms - Coding Styles & Design Patterns - Most Programming Languages](https://github.com/Amo-Addai/data-algo)  ([in progress](https://github.com/Amo-Addai/data-algo), [Sample Big-O Explanation](https://docs.google.com/document/d/1KWwbliK1PYVXpt_njYhlCq8t373SC78eb_XJdECacTQ/edit?usp=sharing))
 
 <br />
@@ -42,12 +47,22 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
+** [Web & Product Design - Figma, AdobeXD](https://github.com/Amo-Addai/web-product-design)  ([in progress](https://github.com/Amo-Addai/web-product-design))
+
+<br />
+<br />
+
 * [Front-End - UI/UX & Website Development - Html, Css, Javascript - React, Next.js, Angular, Vue - Tailwind, Bootstrap, Svelte, etc](https://github.com/Amo-Addai/ui-ux-development)  ([repo](https://github.com/Amo-Addai/ui-ux-development))
 
 <br />
 <br />
 
 * [Mobile App Development - Flutter, React Native, Ionic, Pure Native (Android, iOS, Windows Phone (UWP), .NET MAUI)](https://github.com/Amo-Addai/mobile-app-development)  ([in progress](https://github.com/Amo-Addai/mobile-app-development))
+
+<br />
+<br />
+
+** [Desktop App Development - Electron, C# - Windows Forms, JavaFX](https://github.com/Amo-Addai/desktop-app-development)  ([in progress](https://github.com/Amo-Addai/desktop-app-development))
 
 <br />
 <br />
@@ -68,6 +83,21 @@ This is a playground for dynamic tech stack combinations.
 <br />
 
 * [Blockchain DApps & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
+
+<br />
+<br />
+
+** [IoT & Embedded Systems Development - Arduino, Raspberry Pi, Beagle Bone, etc](https://github.com/Amo-Addai/iot-development)  ([in progress](https://github.com/Amo-Addai/iot-development))
+
+<br />
+<br />
+
+** [VR/AR/MR & Game Development - 3D Models with Blender, Unity, etc](https://github.com/Amo-Addai/xR-game-development)  ([in progress](https://github.com/Amo-Addai/xR-game-development))
+
+<br />
+<br />
+
+** [Kernel & Operating Systems Development - Linux, Windows, Mac OSX - C, C++, Objective-C](https://github.com/Amo-Addai/kernel-development)  ([in progress](https://github.com/Amo-Addai/kernel-development))
 
 <br />
 <br />
@@ -179,6 +209,21 @@ This is a playground for dynamic tech stack combinations.
 <br />
 
 * [Template Dashboard - C# - ASP .NET - Argon UI](https://github.com/Amo-Addai/asp-net-argon-app)  ([in-progress](https://github.com/Amo-Addai/asp-net-argon-app))
+
+<br />
+<br />
+
+** [Template Dashboard - Java - Spring - VanillaJS - JQuery](https://github.com/Amo-Addai/spring-vanilla-jquery-app)  ([in-progress](https://github.com/Amo-Addai/spring-vanilla-jquery-app))
+
+<br />
+<br />
+
+** [Template Dashboard - Ruby on Rails - Notus - Svelte UI](https://github.com/Amo-Addai/rails-notus-svelte-app)  ([in-progress](https://github.com/Amo-Addai/rails-notus-svelte-app))
+
+<br />
+<br />
+
+** [Template Dashboard - Node.js - AdonisJS - Vue - Nuxt.js - Black UI](https://github.com/Amo-Addai/adonis-nuxt-black-app)  ([in-progress](https://github.com/Amo-Addai/adonis-nuxt-black-app))
 
 <br />
 <br />
