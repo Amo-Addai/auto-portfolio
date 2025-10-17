@@ -82,7 +82,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Blockchain DApps & Core Development - ETH Solidity & Hyperledger Fabric](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
+* [Blockchain DApps & Core Development - ETH Solidity, Hyperledger Fabric, Rust Solana](https://github.com/Amo-Addai/blockchain-development)  ([repo](https://github.com/Amo-Addai/blockchain-development))
 
 <br />
 <br />
