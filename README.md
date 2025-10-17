@@ -42,7 +42,7 @@ This is a playground for dynamic tech stack combinations.
 <br />
 <br />
 
-* [Back-End - APIs & Feature Development - Node.js, Python, Java, Php, C#, Swift, Golang, Ruby, etc](https://github.com/Amo-Addai/api-feature-development)  ([repo](https://github.com/Amo-Addai/api-feature-development))
+* [Back-End - APIs & Cloud Engineering - Node.js, Python, Java, Php, C#, Swift, Golang, Ruby, etc](https://github.com/Amo-Addai/api-cloud-engineering)  ([repo](https://github.com/Amo-Addai/api-cloud-engineering))
 
 <br />
 <br />
